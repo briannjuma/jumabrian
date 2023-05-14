@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! Excited to connect with you 
+
+```cli
+brianJuma@github:~ $ whoami
+
+  • 😎 Android developer - I have written well enough code to create awesome applications that are market-worthy.
+  • 😃 Kotlin - I enjoy writing it's simple and fun code.
+```
 
 <!--
 **jumaBrian/jumaBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
