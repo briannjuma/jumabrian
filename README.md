@@ -4,7 +4,7 @@
 brianJuma@github:~ $ whoami
 
   • 😎 Android developer - I have written well enough code to create awesome applications that are market-worthy.
-  • 😃 Kotlin - I enjoy writing it's simple and fun code.
+  • 😃 Kotlin - Proves to be an incredibly practical programming language. I enjoy writing it's simple and fun code.
   • 📍 Nairobi, Kenya.
 ```
 
