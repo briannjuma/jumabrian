@@ -3,7 +3,8 @@
 ```cli
 brianJuma@github:~ $ whoami
 
-  • 😎 Android developer - I have written well enough code to create awesome applications that are market-worthy.
+  • 😎 Junior Android developer - Written well enough code to create awesome applications and can deliver on 
+                                   market-worthy projects given proper guidance.
   • 😃 Kotlin - Proves to be an incredibly practical programming language. I enjoy writing it's simple and fun code.
   • 📍 Nairobi, Kenya.
 ```
