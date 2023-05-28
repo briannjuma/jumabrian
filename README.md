@@ -4,8 +4,9 @@
 brianJuma@github:~ $ whoami
 
   • 😎 Junior Android developer - Written well enough code to create awesome applications and can deliver on 
-                                   market-worthy projects given proper guidance.
+                                   projects given proper guidance.
   • 😃 Kotlin - Proves to be an incredibly practical programming language. I enjoy writing it's simple and fun code.
+  • ⚡ Angular - I have used this framework to create small beautiful web applications.
   • 📍 Nairobi, Kenya.
 ```
 
