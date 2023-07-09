@@ -5,11 +5,10 @@ brianJuma@github:~ $ whoami
 
   • 😎 Junior Android developer - I have written code well enough to create awesome applications and can deliver on projects
                                   with proper guidance. 
-  • 😃 Kotlin - Proves to be an incredibly practical programming language, and I enjoy its fun syntax
-  • ⚡ Angular - I've used Angular to create small beautiful web applications.
+  • ⚡ Kotlin - Proves to be an incredibly practical programming language, and I enjoy its fun syntax
+  • 🌱 Full-stack web - For most part (Typescript/Nodejs).
   • 📍 Nairobi, Kenya.
 ```
-
 <!--
 **jumaBrian/jumaBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
