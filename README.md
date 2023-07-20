@@ -6,7 +6,7 @@ brianJuma@github:~ $ whoami
   • 😎 Junior Android developer - I have written code well enough to create awesome applications and can deliver on projects
                                   with proper guidance. 
   • ⚡ Kotlin - Proves to be an incredibly practical programming language, and I enjoy its fun syntax
-  • 🌱 Full-stack web - For most part (Typescript/Nodejs).
+  • 🌱 Full-stack web - For most part (Typescript/(Java/Kotlin)).
   • 📍 Nairobi, Kenya.
 ```
 <!--
