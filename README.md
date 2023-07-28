@@ -1,7 +1,7 @@
 ### Hello! Excited to connect with you 
 
 ```cli
-brianjuma@github:~ $ whoami
+jumabrian@github:~ $ whoami
 
   • 😎 Junior Android developer - I have written code well enough to create awesome applications and can deliver on projects
                                   with proper guidance. 
